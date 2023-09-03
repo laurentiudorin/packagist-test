@@ -6,7 +6,7 @@
         "phpunit/phpunit": "10.4.x-dev",
         "symfony/yaml": "7.0.x-dev"
     },
-    "license": "personal",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Laurentiuvdorin\\PackagistTest\\": "src/"
