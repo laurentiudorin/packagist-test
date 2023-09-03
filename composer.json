@@ -3,8 +3,9 @@
     "description": "This is here in order to test the packagist system",
     "type": "library",
     "require": {
-        "phpunit/phpunit": "10.4.x-dev",
-        "symfony/yaml": "7.0.x-dev"
+        "php": "^8.0",
+        "phpunit/phpunit": "^10.3",
+        "symfony/yaml": "^7.0"
     },
     "license": "proprietary",
     "autoload": {
