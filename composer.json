@@ -1,0 +1,22 @@
+{
+    "name": "laurentiuvdorin/packagist-test",
+    "description": "This is here in order to test the packagist system",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "10.4.x-dev",
+        "symfony/yaml": "7.0.x-dev"
+    },
+    "license": "personal",
+    "autoload": {
+        "psr-4": {
+            "Laurentiuvdorin\\PackagistTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "laurentiuvdorin",
+            "email": "dorineltuta2006@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
